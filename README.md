@@ -5,3 +5,6 @@ from__future__ import print_function # print как функция Python 2
 
 import gc
 gc.collect()
+
+
+objects = [1, 2, 1, 5, True, False, True, 'false', [], [1,2], [1,2]]
